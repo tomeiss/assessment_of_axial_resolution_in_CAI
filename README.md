@@ -1,5 +1,5 @@
 This is the repository to the article **"Assessment of the Axial Resolution of a Compact Gamma Camera With Coded Aperture Collimator"**. \
-[![DOI](https://zenodo.org/badge/670105272.svg)](https://zenodo.org/badge/latestdoi/670105272) \
+[![DOI](https://zenodo.org/badge/670105272.svg)](https://zenodo.org/badge/latestdoi/670105272) 
 
 **Abstract**\
 **Purpose:** Handheld Gamma cameras with coded aperture collimators are under investigation for intraoperative imaging in nuclear medicine, because they offer a high sensitivity and the possibility of 3D imaging. We assessed axial resolution and computational performance for imaging with a high resolution CA mask and a semiconductor pixel detector.\
