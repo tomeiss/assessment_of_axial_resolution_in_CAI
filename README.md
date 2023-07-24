@@ -1,4 +1,3 @@
-# axial_resolution_of_coded_aperture
 This is the repository to our article **"Assessment of the Axial Resolution of a Compact Gamma Camera With Coded Aperture Collimator"**. \
 **Abstract**\
 **Purpose:** Handheld Gamma cameras with coded aperture collimators are under investigation for intraoperative imaging in nuclear medicine, because they offer a high sensitivity and the possibility of 3D imaging. We assessed axial resolution and computational performance for imaging with a high resolution CA mask and a semiconductor pixel detector.\
